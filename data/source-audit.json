@@ -1,0 +1,149 @@
+{
+  "slug": "modi-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 240,
+  "first": "2026-09-13",
+  "last": "2026-10-28",
+  "exact_time": 240,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/narendramodi/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "failures": [],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/narendramodi/with_replies",
+      "sha256": "01babc6758f7403347e9e815977f88395bc1c6beceab2a0371f8db32349bc503",
+      "timeline_items": 20,
+      "accepted": 20,
+      "excluded": {}
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/narendramodi/with_replies?cursor=DAAHCgABHVwYu1V__-wLAAIAAAATMjExNDI5MDIyNzE2MjU3MDk2NAgAAwAAAAIAAA",
+      "sha256": "ee146ff840865ac6e6e20ba19414e107e590cbe6a1cff376b98dc6356114eac4",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/narendramodi/with_replies?cursor=DAAHCgABHVwYu1V__9kLAAIAAAATMjExMjQyOTAyOTM4MjkyMjQyMQgAAwAAAAIAAA",
+      "sha256": "b4f9ae457c4d247b7c07a4837233e48f43732662dbf09ea4cfeba528469f30a6",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/narendramodi/with_replies?cursor=DAAHCgABHVwYu1V__8ULAAIAAAATMjExMDYzMTUzNTQwNTgzNDM5NwgAAwAAAAIAAA",
+      "sha256": "3c199b652e3d644d035aea9a84ceb971a6966ea590eff05a02ccd22532733b9f",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/narendramodi/with_replies?cursor=DAAHCgABHVwYu1V__7ELAAIAAAATMjEwOTI3NTQ3MjU1OTUzNDE3OQgAAwAAAAIAAA",
+      "sha256": "50be085afd0ee05702e6bbff959f48b39452d116881b34118a9f99c9bc73f5df",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/narendramodi/with_replies?cursor=DAAHCgABHVwYu1V__50LAAIAAAATMjEwODUzOTI2NzU3MjIxNjIxOQgAAwAAAAIAAA",
+      "sha256": "43812b22117b3ae9e4312478465e886e87da84a06096871f4954f49ef26bdc75",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/narendramodi/with_replies?cursor=DAAHCgABHVwYu1V__4kLAAIAAAATMjEwNzg2MjI1NzUyMjg5MzAyNwgAAwAAAAIAAA",
+      "sha256": "54ed4c6945d157d92bf573cd094aa10ebd967867f92182d4e0acc37da795458c",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/narendramodi/with_replies?cursor=DAAHCgABHVwYu1V__3ULAAIAAAATMjEwNzQ4NzM4MzQyODIxODkxNAgAAwAAAAIAAA",
+      "sha256": "8991695675a97cf186a56b99bf183d651bf74f5fc71761f14c844fd44f6e57d9",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/narendramodi/with_replies?cursor=DAAHCgABHVwYu1V__2ILAAIAAAATMjEwNTUzNzM5OTQ4MDc5MTQxNwgAAwAAAAIAAA",
+      "sha256": "2a87cd08517f9e170e0bb4b62e0d97e442948547cce26828947f981b19561be4",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/narendramodi/with_replies?cursor=DAAHCgABHVwYu1V__04LAAIAAAATMjEwMzUwNTI1OTMwMTkzMzIwOQgAAwAAAAIAAA",
+      "sha256": "1352f18bd57dbfa70ea9a574a7faef5701cbfd16ce1ecc0153df3a426af582c9",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/narendramodi/with_replies?cursor=DAAHCgABHVwYu1V__zoLAAIAAAATMjEwMTE4MzIxNDM5MjE2NDY3OAgAAwAAAAIAAA",
+      "sha256": "5571df2b9e79b57844f6434df482e82b02c0ee77142f2d257071e8a94793d184",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/narendramodi/with_replies?cursor=DAAHCgABHVwYu1V__yYLAAIAAAATMjEwMDQ0MjM1OTkyMjQwOTY2MggAAwAAAAIAAA",
+      "sha256": "853264ac0b5a1c61f5ef3f839939f2fefda910cdae8aa62cde83cde1d6e97469",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/narendramodi/with_replies?cursor=DAAHCgABHVwYu1V__xILAAIAAAATMjA5OTExNzU1MzMxODc2MDU4NAgAAwAAAAIAAA",
+      "sha256": "c1b847cf633b9bf32e05f83035568d3f49b99204bdf3d8eb9fae28f284d27b5e",
+      "timeline_items": 1,
+      "accepted": 0,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    }
+  ],
+  "excluded": {
+    "missing-author-or-permalink": 12
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand."
+}

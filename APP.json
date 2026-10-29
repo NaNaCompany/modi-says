@@ -1,0 +1,22 @@
+{
+  "slug": "modi-says",
+  "name": "Modi Says",
+  "wordmark": "MODI",
+  "subject": "Narendra Modi",
+  "handle": "narendramodi",
+  "initials": "NM",
+  "color": "#88615b",
+  "profile": "https://x.com/narendramodi",
+  "origin": "https://nanalab.kr/modi-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}
